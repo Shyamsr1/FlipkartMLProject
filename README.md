@@ -17,15 +17,16 @@ The project includes data wrangling, EDA, hypothesis testing, model training (Lo
 ##  Project Structure (suggested)
 .
 ├─ Customer_support_data.csv
-├─ FlipKartFinalMLProject1ShyamSR.ipynb 
-├─ FlipKartMLProject.mp4
-├─ artifacts/
-│ ├─ csat_model.joblib
-│ └─ csat_model.meta.json
-├─ flipkart_csat_outputs/
-│ └─ figs/ # plots saved from EDA
+├─ FlipKartFinalMLProject1ShyamSR.ipynb
+├─ FlipkartMLProject.mp4              # Video File 
+├─ artifacts/                         # Will be created when .ipynb file is run
+│  ├─ csat_model.joblib               # Will be created when .ipynb file is run - saved model pipeline
+│  └─ csat_model.meta.json            # metadata
+├─ flipkart_csat_outputs/             # Will be created when .ipynb file is run
+│  └─ figs/                           # plots saved from EDA
 ├─ README.md
 └─ requirements.txt
+
 
 
 ---
