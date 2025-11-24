@@ -15,7 +15,7 @@ The project includes data wrangling, EDA, hypothesis testing, model training (Lo
 ---
 
 ##  Project Structure (suggested)
-.
+FlipKartMLProject
 ├─ Customer_support_data.csv
 ├─ FlipKartFinalMLProject1ShyamSR.ipynb
 ├─ FlipkartMLProject.mp4              # Video File 
